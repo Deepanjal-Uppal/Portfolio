@@ -4,7 +4,7 @@ Portfolio Website
 Welcome to my portfolio website! This website was built using Python, Django, HTML, and CSS to showcase my skills, projects, and provide information about me. It is designed to be fully responsive and functional, featuring various pages including a About Me, Skills, Project, and Contact.
 
 ## **Features**
-Fully Responsive Design
+**Fully Responsive Design**
 This website is optimized to look and function flawlessly on a variety of devices and screen sizes, ensuring a seamless user experience for everyone.
 
 About Me Page
