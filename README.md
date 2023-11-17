@@ -28,7 +28,7 @@ Dive into my portfolio of projects. Get an in-depth look at project descriptions
 
 **CSS:** For styling the website and making it visually appealing.
 
-Responsive Design: Ensures a consistent and user-friendly experience on different devices.
+**Responsive Design:** Ensures a consistent and user-friendly experience on different devices.
 
 ## **Contributions and Issues**
 If you have any suggestions, find a bug, or want to contribute to this project, please feel free to open an issue or submit a pull request on the GitHub repository.
